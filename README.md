@@ -63,11 +63,11 @@ Durante y después del incidente, participaron diversos perfiles de TI y Ciberse
 ## 5. Evidencias del Material Revisado
 
 Evidencia 1
-![Evidencia del caso](evidencias/evidencia1.png)
+![Evidencia del caso](Evidencias/Evidencia1.png)
 * Extraído de [Jama Network](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2823757)
 
 Evidencia 2
-![Evidencia del caso](evidencias/Evidencia2.png)
+![Evidencia del caso](Evidencias/Evidencia2.png)
 * Extraído de [IBM](https://www.ibm.com/mx-es/think/news/change-healthcare-22-million-ransomware-payment)
 ---
 
